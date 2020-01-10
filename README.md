@@ -13,4 +13,4 @@
 - Main program in [`ChallengeApp/Program.cs`](ChallengeApp/Program.cs).
 - Import other class to `Program.cs`
 
-> If you have any questions, don't hesitate ask us via Slack.
+> If you have any questions, don't hesitate ask us.
